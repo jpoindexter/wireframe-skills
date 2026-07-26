@@ -100,6 +100,34 @@ Templates are pattern collections representing screen archetypes. Even thousand-
 | Dashboard | Title + scope (date range) → key metrics as cards → charts/tables → recent-activity list. Most-glanced information first |
 | Settings | Vertical section nav → one topic per pane → grouped controls, saved immediately or via one explicit button |
 
+## Required Context
+
+- **The content each region must hold** — component choice follows content, never the reverse.
+- **Breadth and depth of the sitemap** — this decides the navigation pattern, and nothing else should.
+- **Platform conventions** in play (web, iOS, Android, desktop).
+- **The existing design system**, if one constrains the component vocabulary.
+- **Which states exist** — empty, loading, error, partial, over-long — before choosing a control.
+
+## Evaluation Procedure
+
+1. For each region, state the content and the job before naming a component.
+2. Choose navigation only after breadth and depth are known: broad → vertical, few items → horizontal.
+3. Check every component against a known pattern before inventing one.
+4. Render each element with its **longest realistic content**, and with none.
+5. Confirm real text on buttons, nav items, headings, and labels; lorem only in body copy.
+6. Check that what's clickable reads as clickable at grayscale fidelity.
+7. Confirm every interactive element has its states accounted for, even if unstyled.
+
+## Output Format
+
+```
+Region: <name> — content: <what it holds> — component: <choice> — because <job>
+Navigation: <pattern> — from breadth <n> × depth <n>
+Patterns reused: <named patterns>  ·  Invented: <any, with justification>
+States covered: empty / loading / error / long-content
+Real text where required: <yes | list of remaining lorem>
+```
+
 ## Quick Reference
 
 | Decision | Rule |

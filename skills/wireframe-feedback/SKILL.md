@@ -102,6 +102,35 @@ Log all feedback in one shared sheet — item, screen, who said it, status. Donn
 - On the next round, show **old and new side-by-side** with the feedback that drove each change — reviewers instantly see what moved and why.
 - **Feedback is a cycle:** integrate → redraw → critique again. Regular critique during wireframing is the cheapest risk reduction in the whole design process.
 
+## Required Context
+
+- **What kind of response you want** — exploration, a choice between concepts, or analysis of one design.
+- **The fidelity**, and what it signals about how settled things are.
+- **The goals and constraints** the reviewers need in order to judge against something.
+- **Who is in the room and why each is there.** Everyone-invited produces noise.
+- **What is already decided and not up for debate.** Say it, or it gets relitigated.
+
+## Evaluation Procedure
+
+1. Frame the ask: what stage, what decision, what you specifically want examined.
+2. Give reviewers the goal and constraints before the artifact.
+3. Run the critique on analysis, not preference — redirect solutions back to problems.
+4. Test each piece of feedback against the five characteristics: trust-based, analytical, clear and specific, open-ended, objective.
+5. Translate vague reactions into observations tied to a user task before acting.
+6. Decide what to act on, what to defer, what to decline — **declines get a recorded reason**.
+7. Close the loop: tell reviewers what changed and what didn't.
+
+## Output Format
+
+```
+Asked for: <exploration | selection | analysis> on <specific area>
+Context given: goals <…> constraints <…> decided-already <…>
+Feedback received → restated as observation:
+  "<raw>" → "<analytical, tied to a user task>"
+Acting on: <list>  ·  Deferred: <list>  ·  Declined: <item — reason>
+Loop closed with: <who was told what changed>
+```
+
 ## Quick Reference
 
 | Situation | Pattern |

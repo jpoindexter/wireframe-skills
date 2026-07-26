@@ -101,6 +101,36 @@ The first draft's only job is to get ideas out of your head and onto the screen.
 - Output of ideation is **several** directions, not one: keep ≥3 distinct wireframes worth developing, discard the weak ones, and record the flows/ideas you're consciously dropping.
 - Selection criteria, in order: honors the prioritized content order → survives the stress prompts → fewest flow steps to the user's goal → sparks the best stakeholder conversation. Visual appeal is not on the list.
 
+## Required Context
+
+- **The problem statement** — who, what goal, what pain. Ideation without it generates volume, not options.
+- **The entry artifact** — sitemap, user flow, wireflow, or content inventory, depending on whether the unknown is system structure, task structure, or content.
+- **Real content, or its shape** — priorities and purposes per section, even if copy doesn't exist.
+- **Known constraints** — platform, existing IA, non-negotiable steps.
+- **How much divergence the schedule allows.** Say it out loud; it sets the concept count.
+
+## Evaluation Procedure
+
+1. Confirm the problem statement exists and is specific.
+2. Pick the entry artifact by what's actually unknown.
+3. Build the content model before any layout: blocks, priorities, order.
+4. Generate concepts — **≥3 structurally distinct**, not three cosmetic variants.
+5. Test distinctness: if two differ only in decoration, they are one concept.
+6. Check prior art, including outside the industry, before inventing.
+7. Converge by combining strengths, not by promoting a favourite. Allow one re-diverge pass.
+
+## Output Format
+
+```
+Problem: <who / goal / pain>
+Entry artifact: <sitemap | user flow | wireflow | content inventory> — because <unknown>
+Content model: <blocks in priority order>
+Concepts: <n> distinct — <one line each, naming the structural difference>
+Prior art consulted: <sources, incl. cross-domain>
+Converged on: <which, and which parts merged from where>
+Still unexplored: <what a further diverge pass would attack>
+```
+
 ## Quick Reference
 
 | Situation | Move |

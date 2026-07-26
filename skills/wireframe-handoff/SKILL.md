@@ -93,6 +93,38 @@ The package is necessary, not sufficient: **walk through it together** with the 
 - **Post-release, plug into the feedback stream.** Get access to the support team's issue tracker or regular reports; frequency × severity of reported problems is your next iteration's input. No research team required.
 - **Retro on the seams.** Classify what went wrong: within a phase (wrong requirements, buggy code) or between phases (misunderstanding, misplaced expectations)? Within-phase imperfection usually ships fine; between-phase communication failure is what makes products suffer. Fix the handoff, assume good intent, never blame the person.
 
+## Required Context
+
+- **Who the audience is** — stakeholders need the story, developers need the spec.
+- **What the build team already has** — a design system answers half the questions before you annotate.
+- **Every state the screens can enter** — empty, loading, error, partial, permission-denied.
+- **Where data comes from**, and what is computed, cached, or user-entered.
+- **What is genuinely undecided**, so you don't spec a guess as a requirement.
+
+## Evaluation Procedure
+
+1. Establish context first — problem, users, constraints — before showing a frame.
+2. Walk the flow entry to exit; confirm no screen in the path is missing.
+3. Annotate **deltas, not defaults**: reference the design system rather than restating it.
+4. Cover every state, and the off-screen experiences (emails, notifications, timeouts).
+5. Name data sources and validation rules per field.
+6. Hand it to someone who wasn't in the room. If they need you, it isn't done.
+7. Record what's undecided and who decides it, rather than leaving it implied.
+8. After build starts, check the built screens against the wireframe and log the drift.
+
+## Output Format
+
+```
+Audience: <stakeholders | developers>  ·  Fidelity: late-phase
+Context: problem <…> users <…> constraints <…>
+Flow: <entry> → … → <exit>  (screens: <n>, none missing)
+Per screen: purpose · primary action · states (empty/loading/error/partial)
+Annotations: behaviour · data source · validation · edge cases · accessibility
+Deltas from the design system: <only these are specced>
+Undecided: <item → who decides → by when>
+Stands alone: <verified by whom>
+```
+
 ## Quick Reference
 
 | Situation | Do |

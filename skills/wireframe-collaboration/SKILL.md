@@ -83,6 +83,35 @@ Too much ownership by one role creates silos; too little creates apathy. Default
 - **Async adaptation** — replace steps 3–5 with a 48h window: each contributor posts sketches to a shared board by deadline, comments via numbered callouts, votes by emoji/dots by a second deadline; the consolidator synthesizes and posts round two. Digest subscriptions keep non-active roles informed without drowning them.
 - **Trust deficit** — collaboration quality is capped by relationship quality. Ask colleagues for help (people invest in what they've helped), learn one thing about the constraint-world of each adjacent role, and fix communication on your side first: if the next person downstream is unhappy, change what *you're* sending.
 
+## Required Context
+
+- **Who is in the room and what each owns** — product, design, development have different calls.
+- **Whether a design gap exists** — no dedicated designer changes who drives.
+- **The decision the session must produce.** A session without one is a meeting.
+- **Remote, in-person, or async**, and the tool everyone can actually operate.
+- **The known friction** — a dominant voice, a stalled debate, design-by-committee.
+
+## Evaluation Procedure
+
+1. Name the decision the session exists to reach, and who owns it.
+2. Confirm the tool lets everyone draw, not just the designer.
+3. Time-box divergence and convergence separately; don't let one eat the other.
+4. Check participation: did the quiet roles contribute artifacts, not just comments?
+5. Route each open question to the role that owns it rather than deciding by volume.
+6. Close with the decision, the owner, and the next artifact — in writing.
+7. Confirm nobody left believing a different outcome than what was recorded.
+
+## Output Format
+
+```
+Session goal: <the decision to reach>  ·  Owner: <role>
+Participants and their calls: <role → what they decide>
+Format: <in-person | remote | async>  ·  Tool: <one everyone can edit>
+Diverged: <n concepts, by whom>  →  Converged on: <what, and why>
+Open, routed: <question → owning role>
+Recorded decision: <one sentence everyone would agree to>
+```
+
 ## Quick Reference
 
 | Situation | Pattern |

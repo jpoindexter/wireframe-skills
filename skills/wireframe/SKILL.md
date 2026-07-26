@@ -68,6 +68,37 @@ For any request that produces or reviews wireframes, emit the wireframe as struc
 - **HTML grayscale wireframes** (single self-contained file, no color beyond grays, real labels, no lorem where a decision hides) when the user wants something clickable or presentable
 - Always accompanied by: screen inventory (purpose / primary action / empty-loading-error states), open questions, and annotations per wireframe-handoff when build is the next step
 
+## Required Context
+
+Establish before dispatching:
+- **The surface** — which screen, flow, or app. Argument text, else the active surface, else inspect the repo.
+- **The phase** — is structure unknown (ideation), agreed (elements/principles), or settled (handoff)?
+- **The audience for the output** — you, the team, stakeholders, or developers. Fidelity follows.
+- **Whether an artifact already exists** to review, or this is greenfield.
+- **Constraints that pre-decide things** — an existing design system, platform, or locked IA.
+
+If one line and ambiguous, dispatch on the most likely reading and state the assumption.
+
+## Evaluation Procedure
+
+1. Resolve the target and name the phase.
+2. Load the family; pick ≤4 companions from the routing table.
+3. Do the work under the combined rules; phase-specific skill wins conflicts.
+4. Check the output against **every loaded skill's Anti-Patterns table** before presenting.
+5. Confirm the deliverable carries a screen inventory and open questions, not just frames.
+6. State what you did **not** resolve — the open questions are part of the artifact.
+
+## Output Format
+
+```
+Loaded: wireframe family + <companions>
+Phase: <ideation | structure | principles | handoff>  ·  Fidelity: <no-fi…late-phase>
+<the wireframe — ASCII/box inline, or grayscale HTML if it must be presentable>
+Screen inventory: <screen> — purpose / primary action / empty+loading+error
+Open questions: <what this artifact does not yet answer>
+Anti-pattern check: <which skills' tables were applied>
+```
+
 ## Quick Reference
 
 | Situation | Action |

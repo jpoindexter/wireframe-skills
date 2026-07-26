@@ -77,6 +77,35 @@ Judge a wireframe by what it causes, never by how much it resembles the product.
 - **Match tool to phase, not preference:** solo divergence → whatever is fastest for you, including paper; group ideation → whiteboard (physical or digital) so everyone can draw; anything that must be revised, shared, or annotated → digital wireframing tool; anything interactive → you've left wireframing, use a prototyping tool and say so.
 - **Team-participation test:** if only the designer can operate the tool, it's the wrong tool for early phases — wireframes work because everyone (PM, developer, stakeholder) can create and edit them.
 
+## Required Context
+
+- **What decision is pending** — fidelity is chosen against a decision, never in the abstract.
+- **What is already validated** vs still open. Fidelity may not exceed certainty.
+- **Who reviews it next**, and what they will read the polish as meaning.
+- **How long it must survive** — throwaway exploration or a durable reference.
+- **Who needs to edit it** — if non-designers must contribute, the tool choice narrows.
+
+## Evaluation Procedure
+
+1. Write the who / goals / problem note. If you can't, stop — that's the finding.
+2. Name the pending decision, and the lowest fidelity that can answer it.
+3. Check certainty against the ladder: is anything rendered more finished than it is decided?
+4. Count the concepts. Below three at definition phase, you haven't diverged.
+5. Read the feedback you're getting: comments on fonts or colour mean the artifact is over-rendered — drop a level.
+6. Confirm the tool isn't offering pixel or CSS fine-tuning during ideation.
+7. Before sharing, check it stands without you.
+
+## Output Format
+
+```
+Decision pending: <what this artifact must answer>
+Who / goals / problem: <the three answers>
+Fidelity: <level> — because certainty is <what's validated>
+Concepts explored: <n>  (≥3 at definition phase)
+Tool: <choice> — because <speed / editability / who must contribute>
+Next level when: <the condition that unlocks moving up>
+```
+
 ## Quick Reference
 
 | Situation | Rule |

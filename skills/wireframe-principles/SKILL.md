@@ -110,6 +110,36 @@ Two signals fidelity has crept: (1) review comments turn aesthetic instead of st
 
 Applied consistently across screens, these principles become a subconscious instruction manual for the product — and they survive development because they're structural, not cosmetic.
 
+## Required Context
+
+- **The screen's primary action** — hierarchy is meaningless until you know what wins.
+- **The reading order you intend**, stated before you evaluate what the layout produces.
+- **Real labels** for anything where the word is the decision.
+- **The fidelity** — principles apply differently at low-fi than at late-phase.
+- **Where it will be reviewed** — a projector, a phone, or a shared doc changes what survives.
+
+## Evaluation Procedure
+
+1. State the intended reading order and the one primary action.
+2. Squint at the frame. Does the intended order emerge from position, size, weight, and space?
+3. Check the three clarities independently — structure, content, action. They fail separately.
+4. Count primary actions. More than one means the hierarchy isn't decided.
+5. Check alignment: pick an edge and trace it down the frame.
+6. Confirm nothing depends on colour or typography — this is grayscale.
+7. Apply the just-enough-design stop line: what can be removed without losing the decision?
+
+## Output Format
+
+```
+Intended reading order: 1 → 2 → 3
+Primary action: <one>  ·  Secondary: <visibly subordinate>
+Hierarchy levers used: <size | weight | space | position>
+Clarity — structure: <pass/fail> · content: <pass/fail> · action: <pass/fail>
+Alignment: <edges traced, exceptions and whether deliberate>
+Removed: <what the stop line cut>
+Still ambiguous: <what a reviewer could misread>
+```
+
 ## Quick Reference
 
 | Situation | Rule |
