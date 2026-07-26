@@ -23,7 +23,7 @@ Fidelity should correspond to certainty: never render more polish than you have 
 - **Omission is the feature.** Leave detail out on purpose so attention lands on structure, content, and flow. A wireframe that can't be mistaken for the product invites structural critique; one that can, invites font opinions.
 - **Cheap-to-change beats cheap-to-make.** Paper sketches are fast to make but slow to revise; prototypes are slow at both. Digital wireframes are the only artifact fast at both — which is what makes them usable across divergence *and* convergence.
 - **The image in your head is fuzzier than you think.** Externalizing an idea exposes the gaps — forgotten states, missing steps, unhandled cases — that stay invisible while the idea lives only in your head. If the first wireframe reveals nothing missing, you copied instead of thought.
-- **Volume is the method, not waste.** Pixar draws ~12,000 storyboards per story reel and up to 10 reels per film (~120,000 drawings) before animating; Noma's stated ratio is 10 ideas in for 1 that ships. If you expect to ship your first concept, treat that as a red flag, not efficiency.
+- **Volume is the method, not waste.** At Pixar, a single ninety-minute reel takes about twelve thousand storyboard drawings, and up to ten reels are made per film — up to 120,000 drawings before animation begins (Ed Catmull, who calls failure "a manifestation of learning and exploration"). René Redzepi of Noma puts the ratio plainly: for every amazing idea that comes out, you need ten ideas to come in. If you expect to ship your first concept, treat that as a red flag, not efficiency.
 
 ## The Fidelity Ladder
 

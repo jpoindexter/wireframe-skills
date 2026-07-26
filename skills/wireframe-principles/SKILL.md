@@ -58,6 +58,19 @@ Good alignment is invisible; misalignment is what people mean by "looks thrown t
 ## Clarity
 Clarity is how well what the design communicates matches what the user receives (Tidwell). The bar is Krug's: self-evident — or failing that, self-explanatory. Boost signal, cut noise: users should find what they need, see their options, and predict what an action will do.
 
+### The three kinds of clarity
+The source names three, and they fail independently — check each:
+
+| Kind | What it means | Wireframe test |
+|---|---|---|
+| **Structure** | Recognizable, repeated patterns and templates appropriate to the content and context | Could a user who has never seen this screen predict where things are? |
+| **Content** | Only what's essential to do the job; extraneous copy, images, icons, and controls removed | What can be deleted without losing the task? |
+| **Action** | The most important or frequent action is the most prominent | Can you point to the one primary action in under a second? |
+
+**One call to action per page** is the book's worked example of clarity of action —
+one "Save," "Next," or "Buy." More than one primary action means the hierarchy hasn't
+been decided yet. Secondary actions stay visibly secondary.
+
 ### Label realism — when text must be real
 | Element | Real text required? |
 |---|---|

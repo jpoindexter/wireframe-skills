@@ -53,6 +53,7 @@ The first draft's only job is to get ideas out of your head and onto the screen.
 - Content is the organ; the wireframe is the skeleton. Never draw the frame before knowing what fills it, its priority, and its purpose — arbitrary boxes never match their contents.
 - Give content the form it wants; don't force it into a structure drawn first. For content-heavy screens, place *only* the content on the canvas with zero layout chrome, then let structure emerge.
 - Space budgeting is impossible without content: you can't size a region for a paragraph you haven't identified.
+- The named technique is **content modeling**. Derek Gillette's working definition: a content model "uses blocks (think of these like sticky-notes) to lay out the must-haves, priorities, and order of the page… not actual final copy, but the high-level concepts, ideas, and purposes of each section." Blocks and priority order — no prose, no layout.
 
 ### Inside-out design
 - Start with the smallest unit of content (one news item, one product card, one list row) and design *it* fully. Build outward: unit → group → section → screen. Draw the device/browser box last.
