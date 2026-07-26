@@ -33,7 +33,7 @@ Creating and analyzing are different processes — never do both at once (Corita
 
 ## Giving Constructive Feedback
 
-Constructive feedback is **trust-based** (shared goal: improve the product), **analytical** (breaks the design into parts and traces effect on the task), **specific** (names the element and the failure), **open-ended** (states the problem, leaves the solution to the designer), **objective** (argues from user goals, not personal taste), and **actionable** (usable in the next iteration). Two counterproductive modes to catch: **reactive** ("I hate this" — pure emotion, no analysis) and **directional** ("just put it in settings" — a solution with no stated problem).
+The five characteristics below come from Adam Connor and Aaron Irizarry's *Discussing Design*, as adapted by the source. Constructive feedback is **trust-based** (shared goal: improve the product), **analytical** (breaks the design into parts and traces effect on the task), **specific** (names the element and the failure), **open-ended** (states the problem, leaves the solution to the designer), **objective** (argues from user goals, not personal taste), and **actionable** (usable in the next iteration). Two counterproductive modes to catch: **reactive** ("I hate this" — pure emotion, no analysis) and **directional** ("just put it in settings" — a solution with no stated problem).
 
 ### Problem, not solution
 Lead with the observation, tie it to the user's goal, leave the fix open. If you must suggest, give the why first — a suggestion without its underlying problem can't be evaluated or improved on.

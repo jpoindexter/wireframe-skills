@@ -10,7 +10,7 @@ Wireframes have no customer value — nobody ships a wireframe. Their value is t
 
 ## When to Use
 - Kicking off a feature where PM, design, and engineering must align on structure before code
-- Any org with a "design gap" — no dedicated designer, or a designer used as a pixel service
+- Any org with a "design gap" — no dedicated designer, or a designer used as a pixel service. The term is Dan Olsen's (*The Lean Product Playbook*), who maps five levels of design maturity and observes that levels 1–4 all carry a design gap that product and engineering roles end up filling. That gap is precisely who this skill family is for.
 - A solo designer is the bottleneck and other roles are idle waiting on mocks
 - Deciding who drafts, who decides, and who consults on a design question
 - Remote/distributed teams that need async design collaboration to work

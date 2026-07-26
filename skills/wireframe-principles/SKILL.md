@@ -16,7 +16,7 @@ A wireframe's job is to make importance, order, and action obvious in grayscale 
 - **NOT for:** flow-level questions (which screens exist, in what order) — this governs a single screen's visual logic
 
 ## Hierarchy
-Hierarchy is the order the eye visits elements. You can't control what users click, but hierarchy suggests the path — and the subconscious usually follows it.
+Hierarchy is the order the eye visits elements. You can't control what users click, but hierarchy suggests the path — and the subconscious usually follows it. Absent hierarchy interrupts the brain's ability to scan; clear hierarchy reduces **cognitive load** and speeds processing. Kelley Gordon puts the diagnostic well: "Visual hierarchy controls the delivery of the experience. If you have a hard time figuring out where to look on a page, it's more than likely that its layout is missing a clear visual hierarchy."
 
 ### The levers at wireframe fidelity
 | Lever | How to use it in grayscale |

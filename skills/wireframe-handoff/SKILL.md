@@ -141,4 +141,8 @@ The package is necessary, not sufficient: **walk through it together** with the 
 | Final copy for labels, errors, empty states | ux-writing-and-content |
 | Agreeing loading/failure architecture with devs | dec-rendering-architecture |
 
+> "Design isn't finished until somebody is using it." — Brenda Laurel
+
+Handoff is not the finish line; shipping to a user is. Everything in this skill exists to keep the idea intact across that last gap.
+
 *Distilled from* Wireframing for Everyone *(Michael Angeles, Leon Barnard, Billy Carlson — A Book Apart, 2023), extended with production practice.*
