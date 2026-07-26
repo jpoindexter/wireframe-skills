@@ -64,7 +64,9 @@ Point your agent at `skills/wireframe/SKILL.md` — it lists the rest of the fam
 
 ## Credit
 
-Distilled from *Wireframing for Everyone* — Michael Angeles, Leon Barnard, Billy Carlson (A Book Apart, 2023). Buy the book; it's excellent. These skills are an operational condensation for agents, not a substitute for the authors' full treatment.
+Distilled from *Wireframing for Everyone* — Michael Angeles, Leon Barnard, Billy Carlson (A Book Apart, 2023). It's excellent, and these skills are an operational condensation for agents, not a substitute for the authors' full treatment.
+
+**Where to get it now.** A Book Apart ceased operations in 2024 and no longer sells or distributes books; rights reverted to the individual authors, and many A Book Apart titles have since found new homes. *Wireframing for Everyone* is hosted by the authors at [balsamiq.com/learn/wireframing-book](https://balsamiq.com/learn/wireframing-book/) — Barnard and Angeles work at Balsamiq, where the book originated. Balsamiq's [Wireframing Academy](https://balsamiq.com/learn/) is a free, public companion resource by the same authors.
 
 ## License
 
