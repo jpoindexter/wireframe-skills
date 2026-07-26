@@ -49,6 +49,17 @@ Entry point for the `wireframe-*` skill set — the complete wireframing discipl
 | Wireframing an iOS-native surface | ios (routes the ios-* family) — wireframe family still governs structure |
 | Pre-commit sanity check on a chosen direction | blind-premortem, blind-consider-the-opposite |
 
+## Traceability
+
+`references/source-map.md` maps the book's seven chapters onto these seven skills
+and lists all 39 sources the book cites, with the skill that carries each. Use it
+to attribute a claim, or to check whether something is the book's position or this
+pack's extension. Sibling skills reach it at `../wireframe/references/source-map.md`.
+
+**Rule:** if you state something as the book's, name the origin. If you state
+something the book doesn't say, mark it as production practice. The skills are
+explicitly "extended," and that extension must stay visible.
+
 ## Deliverable
 
 For any request that produces or reviews wireframes, emit the wireframe as structured output the user can act on:

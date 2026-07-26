@@ -62,6 +62,10 @@ Then `/wireframe <what you're building>` in any session.
 
 Point your agent at `skills/wireframe/SKILL.md` — it lists the rest of the family and when each applies.
 
+## Traceability
+
+[`skills/wireframe/references/source-map.md`](skills/wireframe/references/source-map.md) maps the book's chapters onto the skills, lists all 39 sources the book cites with the skill that carries each, and records where these skills deliberately diverge from the book's vocabulary. Claims should be attributable or declared as extension.
+
 ## Credit
 
 Distilled from *Wireframing for Everyone* — Michael Angeles, Leon Barnard, Billy Carlson (A Book Apart, 2023). It's excellent, and these skills are an operational condensation for agents, not a substitute for the authors' full treatment.
